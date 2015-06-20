@@ -1,0 +1,30 @@
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\bin\Website.dll.config
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\bin\Website.dll
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\bin\Website.pdb
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\bin\Website.xml
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\bin\System.Net.Http.dll
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\bin\System.Net.Http.xml
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\obj\Debug\Website.Resources.resources
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\obj\Debug\Website.vbproj.GenerateResource.Cache
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\obj\Debug\Website.dll
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\obj\Debug\Website.xml
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\obj\Debug\Website.pdb
+C:\Users\SLee\Desktop\Shopping Cart 2014\ShoppingCart2015\Website\obj\Debug\Website.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\bin\Website.dll.config
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\bin\Website.dll
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\bin\Website.pdb
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\bin\Website.xml
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\obj\Debug\Website.Resources.resources
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\obj\Debug\Website.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\obj\Debug\Website.dll
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\obj\Debug\Website.xml
+C:\Users\Administrator\Desktop\New folder\ShoppingCart2015\Website\obj\Debug\Website.pdb
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\bin\Website.dll.config
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\bin\Website.dll
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\bin\Website.pdb
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\bin\Website.xml
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\obj\Debug\Website.Resources.resources
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\obj\Debug\Website.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\obj\Debug\Website.dll
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\obj\Debug\Website.xml
+C:\Users\Administrator\Desktop\Cart\ShoppingCart2015\Website\obj\Debug\Website.pdb

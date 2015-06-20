@@ -1,0 +1,245 @@
+
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+.accentBGColor {
+	background-color: #801e39;
+}
+.accentColor {
+	color: #801e39;
+}
+#checkoutWrap #stepsWrap .stepItem.active .stepNumber {
+	background-color: #801e39;
+}
+#checkoutWrap .productInfoW .productName a {
+	color: #801e39;
+}
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+/*-----Accent Colors Here (shouldn't have to change anything else unless you want to change the layout) */
+
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+#checkoutWrap {
+	border: solid 1px #c1c1c1;
+	background-image: url(#ffffff);
+}
+#checkoutWrap .stepTitleWrap {
+	height: 45px;
+	line-height: 45px;
+	margin: 1px;
+	padding: 0px 20px;
+}
+
+#checkoutWrap .stepTitleWrap h1 {
+	padding: 0px;
+	margin: 0px;
+	font-weight: normal;
+	color: #ffffff;
+
+	background-image: none;
+	background-color: transparent !important;
+	font-size: 30px;
+	line-height: 45px;
+	text-transform: uppercase;
+	height: 45px;
+}
+#checkoutWrap .rndBtn {
+	display: block;
+	background-color: #000000;
+	color: #ffffff;
+	text-decoration: none;
+	height: 25px;
+	line-height: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	width: 160px;
+	text-align: center;
+	margin-top: 10px;
+}
+#checkoutWrap .chkout-Product {
+	padding: 20px;
+}
+#checkoutWrap .chkout-Product .prodct-PicW img {
+	border: solid 5px #ebebeb;
+}
+#checkoutWrap .productInfoW .productName {
+	font-weight: bold;
+	font-size: 20px;
+}
+#checkoutWrap .productInfoW .productCode {
+	color: #a4a4a4;
+	font-size: 10px;
+	font-style: italic;
+	line-height: 5px;
+	text-transform: uppercase;
+}
+#checkoutWrap .productInfoW .chosenOptions ul {
+	margin: 5px 0px 0px 0px;
+	padding: 0px 0px 0px 15px;
+	color: #707070;
+	font-size: 11px;
+	text-transform: uppercase;
+}
+#checkoutWrap .chkout-Product .productRight {
+	height: 95px;
+}
+#checkoutWrap .quantityBoxWrap {
+	text-align: center;
+	width: 99px;
+	padding-top: 25px;
+	border-left: solid 1px #ebebeb;
+	border-right: solid 1px #ebebeb;
+	height: 70px;
+}
+#checkoutWrap .quantityBoxWrap a {
+	text-decoration: none;
+	color: #8d8d8d;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#checkoutWrap .quantityBoxWrap .quantityBox {
+	width: 32px;
+	height: 30px;
+	border: solid 1px #a8a7a7;
+	text-align: center;
+	color: #4a4a4a;
+	font-family: Calibri;
+}
+#checkoutWrap .priceBtnWrap {
+	padding-top: 12px;
+	padding-left: 17px;
+	height: 95px;
+}
+#checkoutWrap .priceBtnWrap .chk-Price {
+	height: 40px;
+	line-height: 40px;
+	font-weight: bold;
+
+	font-size: 24px;
+	text-align: center;
+}
+#checkoutWrap .gryBtn {
+	background-color: #8d8d8d;
+	display: block;
+	width: 95px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: 'calibri';
+}
+#checkoutWrap .productDivider {
+	height: 1px;
+	background-color: #ebebeb;
+}
+#checkoutWrap #priceTotals {
+	border-top: solid 1px #ebebeb;
+	text-transform: uppercase;
+}
+#checkoutWrap .productInfoW .productName a {
+	text-decoration: none;
+}
+
+.lPinkBtn {
+	display: block;
+	width: 235px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+
+	font-size: 20px;
+	margin-top: 20px;
+}
+#checkoutWrap #stepsWrap {
+	height: 25px;
+	line-height: 25px;
+}
+#checkoutWrap #stepsWrap .stepItem {
+	float: left;
+	margin-right: 45px;
+}
+#checkoutWrap #stepsWrap .stepItem .stepNumber {
+	float: left;
+	color: #ffffff;
+	font-weight: bold;
+	text-transform: uppercase;
+	display: block;
+	width: 71px;
+	text-align: center;
+	margin-right: 5px;
+	background-color: #e4e4e4;
+}
+#checkoutWrap #stepsWrap .stepItem .stepText {
+	float: left;
+	color: #e4e4e4;
+	text-transform: uppercase;
+}
+#checkoutWrap #stepsWrap .stepItem.active .stepText {
+	color:#5f5f5f;
+}#checkoutWrap .chkForm-Wrap {
+	background-color: #f5f5f5;
+	padding: 40px 0px;
+}
+#checkoutWrap .chkForm-Wrap .innerWrap {
+	width: 694px;
+	margin: 0 auto;
+}
+#checkoutWrap .chkForm-Wrap .tbWrap {
+	background-color: #c6c5c5;
+	padding: 7px;
+}
+#checkoutWrap .chkForm-Wrap .tbWrap .tbInput {
+	background-color: #ffffff;
+	border: solid 1px #a8a7a7;
+	width: 311px;
+	height: 28px;
+	padding-left: 10px;
+}
+#checkoutWrap .chkForm-Wrap .tbWrap .tbInputLB {
+	border: 1px solid #A8A7A7;
+	font-family: 'calibri';
+	height: 32px;
+	line-height: 32px;
+	width: 323px;
+	padding: 6px 6px 6px 10px;
+}
+#checkoutWrap .chkForm-Wrap .tbInputLabel {
+	padding-left: 10px;
+}
+#checkoutWrap .chkForm-Wrap .tbLeft,
+#checkoutWrap .chkForm-Wrap .tbRight {
+	width: 337px;
+}
+#checkoutWrap .orderPPanel {
+	width: 48%;
+}
+#checkoutWrap .orderPPanel h3 {
+	height: 35px;
+	line-height: 35px;
+	padding: 0px;
+	margin: 0px;
+	color: #5f5f5f;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#checkoutWrap .orderPPanel .pPanel {
+	background-color: #f5f5f5;
+	padding: 20px;
+	height: 90px;
+}

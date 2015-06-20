@@ -1,0 +1,43 @@
+body 
+{
+    font-family: Arial;
+    font-size: 12px;
+}
+#mainContainer
+{
+    width: 900px;
+    margin: auto;
+}
+.cf:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+.cf {display: inline-block;}
+* html .cf {height: 1%;}
+.cf {display: block;}
+
+/* 
+    Rounded Corners 
+*/
+.rounded5 {border-radius: 5px; -moz-border-radius: 5px;}
+.rounded8 {border-radius: 8px; -moz-border-radius: 8px;}
+.rounded10 {border-radius: 10px; -moz-border-radius: 10px;}
+.rounded15 {border-radius: 15px; -moz-border-radius: 15px;}
+
+.rounded5_top {border-radius: 5px 5px 0 0; -moz-border-radius: 5px 5px 0 0;}
+.rounded10_top {border-radius: 10px 10px 0 0; -moz-border-radius: 10px 10px 0 0;}
+.rounded15_top {border-radius: 15px 15px 0 0; -moz-border-radius: 15px 15px 0 0;}
+
+.rounded5_bottom {border-radius: 0 0 5px 5px; -moz-border-radius: 0 0 5px 5px;}
+.rounded10_bottom {border-radius: 0 0 10px 10px; -moz-border-radius: 0 0 10px 10px;}
+.rounded15_bottom {border-radius: 0 0 15px 15px; -moz-border-radius: 0 0 15px 15px;}
+
+/*
+General
+*/
+
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+
+

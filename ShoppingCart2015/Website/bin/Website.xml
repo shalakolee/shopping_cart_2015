@@ -1,0 +1,526 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Website
+</name>
+</assembly>
+<members>
+<member name="F:Website.WebForm1.phFeedBack">
+	<summary>
+phFeedBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.WebForm1.lblFeedback">
+	<summary>
+lblFeedback control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.WebForm1.txtUserName">
+	<summary>
+txtUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.WebForm1.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.WebForm1.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Website.WebForm1.oUsers">
+	<summary>
+ this is the login/logout page, we are going to pull all the users from the users table and verify their
+ login information.
+ 
+ to logout pass the following querystring to this page: action=logout
+ 
+ The following sessions are set here :
+ 
+ UserID
+ Username
+ loggedin
+ accesslevel
+ 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Website.adminCategory.createCategoryTree(System.Object,System.Object)">
+	<summary>
+ Great way to list a flat table with linq
+ </summary>
+	<remarks>
+ thanks brendon for the help!
+ Usage:
+ The global declaration is a must here so that we have a unified list
+ Global declaration: Private myCategoryList As New List(Of DataClasses.Category)
+ 
+ </remarks>
+</member><member name="T:Website.adminCategory">
+	<summary>
+ TODO: make this category be able to have multiple parent categories
+ going to do this the same way as the products in multiple categories
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Website.adminActions.phActions">
+	<summary>
+phActions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminActions.lblAction">
+	<summary>
+lblAction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminActions.lblItemType">
+	<summary>
+lblItemType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminActions.lblItemName">
+	<summary>
+lblItemName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminActions.phActionNotValid">
+	<summary>
+phActionNotValid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminActions.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminActions.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Website.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Website.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Website.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Website.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Website.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Website.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Website.AdminCategories.sm1">
+	<summary>
+sm1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.up1">
+	<summary>
+up1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.hdnCurrentPage">
+	<summary>
+hdnCurrentPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.ddlPager">
+	<summary>
+ddlPager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.lnkPrev">
+	<summary>
+lnkPrev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.lblPage">
+	<summary>
+lblPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.lnkNext">
+	<summary>
+lnkNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.cboStatus">
+	<summary>
+cboStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.AdminCategories.rptOffices">
+	<summary>
+rptOffices control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.test.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Website.adminActions">
+	<summary>
+ These functions are used as the confirmation screen when deleting items from the sales manager
+ available actions:
+ 
+ deletecategory
+ 
+ 
+ </summary>
+	<remarks>
+	</remarks>
+</member><member name="F:Website.admin1.headContent">
+	<summary>
+headContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.admin1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.admin1.bodyContent">
+	<summary>
+bodyContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Website.WebForm2.iPendingShipmentCount">
+	<summary>
+ show general information on this page
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Website.AdminCategories.createCategoryTree(System.Object,System.Object)">
+	<summary>
+ Great way to list a flat table with linq
+ </summary>
+	<remarks>
+ thanks brendon for the help!
+ Usage:
+ The global declaration is a must here so that we have a unified list
+ Global declaration: Private myCategoryList As New List(Of DataClasses.Category)
+ 
+ </remarks>
+</member><member name="M:Website.AdminCategories.lnkNext_Click(System.Object,System.EventArgs)">
+	<summary>
+ This is for paging
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>
+ thanks brendon for the awesome code
+ Usage:
+ </remarks>
+</member><member name="F:Website.adminCategory.vInformation">
+	<summary>
+vInformation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.ddlParentCategory">
+	<summary>
+ddlParentCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.reqCategoryName">
+	<summary>
+reqCategoryName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtCategoryName">
+	<summary>
+txtCategoryName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtMiniDescription">
+	<summary>
+txtMiniDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtDescription">
+	<summary>
+txtDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtSEOTitle">
+	<summary>
+txtSEOTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtSEOSlug">
+	<summary>
+txtSEOSlug control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtSEOMetaDesc">
+	<summary>
+txtSEOMetaDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtSEOMetaKeywords">
+	<summary>
+txtSEOMetaKeywords control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.ddlFeatured">
+	<summary>
+ddlFeatured control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtSortOrder">
+	<summary>
+txtSortOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.ddlStatus">
+	<summary>
+ddlStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.btnRemoveImg1">
+	<summary>
+btnRemoveImg1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtImage1">
+	<summary>
+txtImage1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.btnRemoveImg2">
+	<summary>
+btnRemoveImg2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtImage2">
+	<summary>
+txtImage2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.btnRemoveImg3">
+	<summary>
+btnRemoveImg3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtImage3">
+	<summary>
+txtImage3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.btnRemoveImg4">
+	<summary>
+btnRemoveImg4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.txtImage4">
+	<summary>
+txtImage4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.adminCategory.btnDelete">
+	<summary>
+btnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.salestaxadmin.phSuccess">
+	<summary>
+phSuccess control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.salestaxadmin.ddlStates">
+	<summary>
+ddlStates control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.salestaxadmin.chklstStates">
+	<summary>
+chklstStates control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Website.salestaxadmin.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
