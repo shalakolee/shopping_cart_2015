@@ -1,0 +1,1 @@
+INSERT INTO [users] ([Username],[Password],[AccessLevel],[Active])VALUES('master','admin',1,1)
